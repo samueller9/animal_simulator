@@ -1,0 +1,5 @@
+
+Photographers take pictures
+1. Create photographer class
+2. Def init (self, name, camera)
+3. def take picture
